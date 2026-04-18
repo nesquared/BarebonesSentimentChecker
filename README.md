@@ -15,7 +15,8 @@ This project demonstrates how to run Hugging Face models directly in the browser
 ---
 
 ## Requirements
-- Modern browser with ES Modules support.
+- Modern browser with ES Modules support (e.g., Chrome, Edge, Firefox, Safari).
+
 - Local development server (e.g., `http-server`) to serve the HTML file.
 
 ---
