@@ -5,6 +5,11 @@ A simple browser-based sentiment analysis tool powered by [@xenova/transformers]
 This project demonstrates how to run Hugging Face models directly in the browser using JavaScript and WebAssembly.
 
 ---
+<img width="1903" height="835" alt="image" src="https://github.com/user-attachments/assets/92e83e97-2766-4511-82c3-af876ff0de04" />
+
+<img width="1908" height="835" alt="image" src="https://github.com/user-attachments/assets/bf0fbba7-f82f-4080-8959-0d5d344a8242" />
+
+
 
 ## Features
 - Input text through a simple HTML form.
